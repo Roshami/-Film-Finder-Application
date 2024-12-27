@@ -39,6 +39,8 @@ Film Finder is a simple web application that enables users to search for movies 
 
 ![image alt](https://github.com/Roshami/-Film-Finder-Application/blob/6f7e5d36bd4386764cc60e31676ad087696b4397/Assest/Screenshot%20Home.png)
 
+![image alt](https://github.com/Roshami/-Film-Finder-Application/blob/aeba73011ad807fc480d40b858a624ebbd90090f/Assest/Screenshot%20finder.png)
+
 ---
 
 **Contributions and feedback are welcome!**
