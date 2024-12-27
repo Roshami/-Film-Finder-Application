@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Search</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Film Finder</h1>
+            <p>Search for your favorite movies and explore their details!</p>
+        </header>
+
+        <div class="search-section">
+            <input id="input" type="text" placeholder="Enter movie title...">
+            <button onclick="search()">Search</button>
+        </div>
+
+        <div class="result-section">
+            <div class="poster-wrapper">
+                <img id="poster" alt="Movie Poster" src="placeholder.jpg">
+            </div>
+            <div class="details">
+                <h2 id="title">Movie Title</h2>
+                <p id="year">Year: 2024</p>
+                <p id="rating">Rating: N/A</p>
+                <p id="plot">Plot: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
